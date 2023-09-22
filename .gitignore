@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+Alzheimer_s Dataset/
+dataset/
+model/
 # C extensions
 *.so
 
